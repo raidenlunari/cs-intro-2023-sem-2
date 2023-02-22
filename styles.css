@@ -1,12 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@200&family=Quicksand:wght@300&family=Raleway:wght@200&display=swap');
 
 h1 {
     font-size: 48px;
-    font-family: "Cutive Mono", Montserrat;
+    font-family: 'Montserrat', sans-serif;
     color: #2570C8;
     padding: 40px;
 }
 
 h2 {
     font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+    color: #0651A8;
+    padding: 25px;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: 'Raleway', sans-serif;
+    color: #062F5F;
+    padding: 15px;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #062F5F;
+    padding: 5px;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    padding: 5px;
 }

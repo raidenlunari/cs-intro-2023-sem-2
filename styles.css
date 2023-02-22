@@ -1,6 +1,12 @@
-@import
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 h1 {
-    font-size: 36px
-    font-family:
+    font-size: 48px;
+    font-family: "Cutive Mono", Montserrat;
+    color: #2570C8;
+    padding: 40px;
+}
+
+h2 {
+    font-size: 36px;
 }
